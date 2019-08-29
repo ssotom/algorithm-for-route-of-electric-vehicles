@@ -5,4 +5,6 @@ The program takes into account the capacity of the vehicle batteries and the dif
 
 This project was developed in 2018 for the course of data structures and algorithms II
 
+Original repository: https://github.com/ksgomezp/ST0247-032/tree/master/proyecto
+
 For more information read 'Documento Final.pdf'
